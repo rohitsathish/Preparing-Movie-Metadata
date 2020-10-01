@@ -9,4 +9,9 @@ The dataset I used involved the metadata file in [this Kaggle repository](https:
 The final vizualization was created using Tableau and can be found [here](https://public.tableau.com/profile/rohit1781#!/vizhome/Udacity-Moviesdataset/EDAProfit). 
 
 
-<img src="https://public.tableau.com/views/Udacity-Moviesdataset/ProfitvsGenres_1?:language=en&:display_count=y&:origin=viz_share_link" />
+```{r, echo=FALSE}
+# Define variable containing url
+url <- "https://public.tableau.com/views/Udacity-Moviesdataset/ProfitvsGenres_1?:language=en&:display_count=y&:origin=viz_share_link"
+```
+## Alternatively...
+![](`r url`)
