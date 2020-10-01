@@ -9,4 +9,4 @@ The dataset I used involved the metadata file in [this Kaggle repository](https:
 The final vizualization was created using Tableau and can be found [here](https://public.tableau.com/profile/rohit1781#!/vizhome/Udacity-Moviesdataset/EDAProfit). 
 
 
-<iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe> 
+<img src='https://public.tableau.com/views/Udacity-Moviesdataset/ProfitvsGenres_1?:language=en&:display_count=y&:origin=viz_share_link'>
