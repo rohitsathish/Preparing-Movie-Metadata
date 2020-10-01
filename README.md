@@ -8,4 +8,5 @@ The dataset I used involved the metadata file in [this Kaggle repository](https:
 
 The final vizualization was created using Tableau and can be found [here](https://public.tableau.com/profile/rohit1781#!/vizhome/Udacity-Moviesdataset/EDAProfit). 
 
-<img src ="
+<img src ="Profit% vs Genres (1).png>
+
